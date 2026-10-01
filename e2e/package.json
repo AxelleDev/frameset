@@ -10,7 +10,7 @@
     "format:check": "prettier --check ."
   },
   "devDependencies": {
-    "@playwright/test": "^1.48.0",
-    "prettier": "^3.4.2"
+    "@playwright/test": "^1.63.0",
+    "prettier": "^3.9.9"
   }
 }
